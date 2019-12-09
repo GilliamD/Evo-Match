@@ -1,0 +1,15 @@
+.bg-light {
+    background: turquoise;
+    color: navy;
+  }
+  
+  nav.navbar.navbar-default {
+      margin-bottom: 0;
+    }
+    
+    
+    li {
+      margin-left: 10px;
+      font-size: 24px;
+      list-style: none;
+    }
